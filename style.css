@@ -4,6 +4,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+@media all and (max-width: 320px) {
+   body {
+      background: #e7e7e7;
+   }
+}
 body{
     background: rgb(255, 218, 232);
     display: flex;
