@@ -6,10 +6,8 @@
     margin: 0;
     box-sizing: border-box;
 }
-@media all and (max-width: 480px) {
-    body{
-        overflow: hidden;
-    }
+body{
+    overflow: hidden;
 }
 .wrapper{
     position: relative;
